@@ -13,4 +13,6 @@ Dynamic Coupling of microstructure modeling using phase-field method with CALPHA
 
 
 ##  Reach out if you have any problems/questions...
+## Email: attari.v@tamu.edu 
+
 
